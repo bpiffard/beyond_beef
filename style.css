@@ -1,0 +1,8 @@
+.jumbotron {
+    background-image: linear-gradient(to bottom, transparent 5%, rgb(170, 170, 170)), url("images/jumbotron_img.jpg");
+    background-size: cover;
+};
+
+.row {
+    background-color: rgb(171, 171, 171) !important;
+}
